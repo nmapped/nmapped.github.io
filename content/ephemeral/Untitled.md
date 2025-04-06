@@ -1,0 +1,1 @@
+- If we pray for God's will to be done. Even though it will be 
