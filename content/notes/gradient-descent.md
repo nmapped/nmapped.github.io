@@ -26,4 +26,4 @@ Gradient Descent Update Function.
 
 ## Further  Reading
 - [[neural-networks]]
-- [[why-does-gradient-descent-use-partial-derivatives]]
+- [[why-grad-descent-uses-part-derivatives]]
