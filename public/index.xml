@@ -6,6 +6,18 @@
       <description>Last 10 notes on ガーデン</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>ようこそ</title>
+    <link>https://quartz.jzhao.xyz/</link>
+    <guid>https://quartz.jzhao.xyz/</guid>
+    <description>Hello, I’m [redacted] Welcome to my digital garden - a place where I collect and connect my thoughts, notes, and discoveries.</description>
+    <pubDate>Tue, 15 Apr 2025 21:17:59 GMT</pubDate>
+  </item><item>
+    <title>why-not</title>
+    <link>https://quartz.jzhao.xyz/scratch/why-not</link>
+    <guid>https://quartz.jzhao.xyz/scratch/why-not</guid>
+    <description>I think my current system requires too much work on my part to publish blog posts.</description>
+    <pubDate>Tue, 15 Apr 2025 21:17:59 GMT</pubDate>
+  </item><item>
     <title>Untitled</title>
     <link>https://quartz.jzhao.xyz/scratch/Untitled</link>
     <guid>https://quartz.jzhao.xyz/scratch/Untitled</guid>
@@ -53,18 +65,6 @@
     <guid>https://quartz.jzhao.xyz/scratch/On-The-Issue-of-Prayer</guid>
     <description> If we pray for God’s will to be done, even though it will come to pass no matter what, then what is the true purpose of prayer? What is it’s true nature? What really is it? .</description>
     <pubDate>Sun, 06 Apr 2025 19:37:54 GMT</pubDate>
-  </item><item>
-    <title>Vectorized Dot Product in C</title>
-    <link>https://quartz.jzhao.xyz/scratch/Vectorized-Dot-Product-in-C</link>
-    <guid>https://quartz.jzhao.xyz/scratch/Vectorized-Dot-Product-in-C</guid>
-    <description>Creating a microkernel (or \mu-kernel) to compute the dot product efficiently using SIMD (Simple Instruction, Multiple Data).</description>
-    <pubDate>Sat, 05 Apr 2025 00:00:00 GMT</pubDate>
-  </item><item>
-    <title>C Hexdump Program</title>
-    <link>https://quartz.jzhao.xyz/notes/C-Hexdump-Program</link>
-    <guid>https://quartz.jzhao.xyz/notes/C-Hexdump-Program</guid>
-    <description>Intro The goal is to create a hexdump in C. I’ll essentially be trying to display binary data in a human readable format.</description>
-    <pubDate>Tue, 01 Apr 2025 00:00:00 GMT</pubDate>
   </item>
     </channel>
   </rss>

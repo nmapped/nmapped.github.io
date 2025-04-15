@@ -1,5 +1,5 @@
 ---
-title: nmapped-garden
+title: ようこそ
 enableToc: false
 cssclasses: []
 ---
