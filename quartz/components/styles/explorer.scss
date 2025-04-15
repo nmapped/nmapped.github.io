@@ -100,11 +100,13 @@ button.desktop-explorer {
   color: var(--dark);
   display: flex;
   align-items: center;
+  font-family: var(--headerFont);
 
   & h2 {
     font-size: 1rem;
     display: inline-block;
     margin: 0;
+    font-family: var(--headerFont);
   }
 }
 
@@ -113,6 +115,7 @@ button.desktop-explorer {
   overflow: hidden;
   overflow-y: auto;
   margin-top: 0.5rem;
+  font-family: var(--headerFont);
 
   & ul {
     list-style: none;
@@ -123,6 +126,7 @@ button.desktop-explorer {
       color: var(--dark);
       opacity: 0.75;
       pointer-events: all;
+      font-family: var(--codeFont);
 
       &.active {
         opacity: 1;
@@ -157,7 +161,7 @@ button.desktop-explorer {
 
   & div > a {
     color: var(--secondary);
-    font-family: var(--headerFont);
+    font-family: var(--codeFont);
     font-size: 0.95rem;
     font-weight: $semiBoldWeight;
     line-height: 1.5rem;

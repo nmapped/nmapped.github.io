@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+      <title>ガーデン</title>
+      <link>https://quartz.jzhao.xyz</link>
+      <description>Last 10 notes on ガーデン</description>
+      <generator>Quartz -- quartz.jzhao.xyz</generator>
+      <item>
+    <title>Untitled</title>
+    <link>https://quartz.jzhao.xyz/scratch/Untitled</link>
+    <guid>https://quartz.jzhao.xyz/scratch/Untitled</guid>
+    <description>For Ezekiel: God is against it and “pronounced them unclean” because of it.</description>
+    <pubDate>Tue, 15 Apr 2025 14:26:39 GMT</pubDate>
+  </item><item>
+    <title>Multiple Linear Regression</title>
+    <link>https://quartz.jzhao.xyz/scratch/Multiple-Linear-Regression</link>
+    <guid>https://quartz.jzhao.xyz/scratch/Multiple-Linear-Regression</guid>
+    <description>Intro With regular linear regression there is a single input, x used to predict a single output, y.</description>
+    <pubDate>Mon, 14 Apr 2025 00:00:00 GMT</pubDate>
+  </item><item>
+    <title>Leisure</title>
+    <link>https://quartz.jzhao.xyz/scratch/Leisure</link>
+    <guid>https://quartz.jzhao.xyz/scratch/Leisure</guid>
+    <description>Movies Megamind Rise of the Guardians Maya and the Three Anime Boruto Bleach .</description>
+    <pubDate>Tue, 08 Apr 2025 12:08:12 GMT</pubDate>
+  </item><item>
+    <title>Linear Regression</title>
+    <link>https://quartz.jzhao.xyz/scratch/Linear-Regression</link>
+    <guid>https://quartz.jzhao.xyz/scratch/Linear-Regression</guid>
+    <description>Intro A linear regression model can be described using this function: f_{w,b}(x) = w \cdot x + b w and b are model parameters.</description>
+    <pubDate>Tue, 08 Apr 2025 10:05:03 GMT</pubDate>
+  </item><item>
+    <title>Learning Goals</title>
+    <link>https://quartz.jzhao.xyz/notes/Learning-Goals</link>
+    <guid>https://quartz.jzhao.xyz/notes/Learning-Goals</guid>
+    <description>Machine Learning Gain grounded understanding of fundamental concepts Linear algebra Calculus Probability and statistics Programming Language Theory Gain grounded understanding of fundamental concepts Grammars Types Low Level Programming C ASM Rust .</description>
+    <pubDate>Tue, 08 Apr 2025 09:13:58 GMT</pubDate>
+  </item><item>
+    <title>Intro to ML</title>
+    <link>https://quartz.jzhao.xyz/scratch/Intro-to-ML</link>
+    <guid>https://quartz.jzhao.xyz/scratch/Intro-to-ML</guid>
+    <description>Machine Learning is the process of enabling computers to learn from data and make decisions or predictions without being explicitly programmed to do so.</description>
+    <pubDate>Tue, 08 Apr 2025 00:00:00 GMT</pubDate>
+  </item><item>
+    <title>Understanding GEMM</title>
+    <link>https://quartz.jzhao.xyz/drawings/Understanding-GEMM</link>
+    <guid>https://quartz.jzhao.xyz/drawings/Understanding-GEMM</guid>
+    <description>⚠ Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document.</description>
+    <pubDate>Mon, 07 Apr 2025 07:27:01 GMT</pubDate>
+  </item><item>
+    <title>On The Issue of Prayer</title>
+    <link>https://quartz.jzhao.xyz/scratch/On-The-Issue-of-Prayer</link>
+    <guid>https://quartz.jzhao.xyz/scratch/On-The-Issue-of-Prayer</guid>
+    <description> If we pray for God’s will to be done, even though it will come to pass no matter what, then what is the true purpose of prayer? What is it’s true nature? What really is it? .</description>
+    <pubDate>Sun, 06 Apr 2025 19:37:54 GMT</pubDate>
+  </item><item>
+    <title>Vectorized Dot Product in C</title>
+    <link>https://quartz.jzhao.xyz/scratch/Vectorized-Dot-Product-in-C</link>
+    <guid>https://quartz.jzhao.xyz/scratch/Vectorized-Dot-Product-in-C</guid>
+    <description>Creating a microkernel (or \mu-kernel) to compute the dot product efficiently using SIMD (Simple Instruction, Multiple Data).</description>
+    <pubDate>Sat, 05 Apr 2025 00:00:00 GMT</pubDate>
+  </item><item>
+    <title>C Hexdump Program</title>
+    <link>https://quartz.jzhao.xyz/notes/C-Hexdump-Program</link>
+    <guid>https://quartz.jzhao.xyz/notes/C-Hexdump-Program</guid>
+    <description>Intro The goal is to create a hexdump in C. I’ll essentially be trying to display binary data in a human readable format.</description>
+    <pubDate>Tue, 01 Apr 2025 00:00:00 GMT</pubDate>
+  </item>
+    </channel>
+  </rss>

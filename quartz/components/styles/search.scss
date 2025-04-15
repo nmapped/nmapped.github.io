@@ -1,38 +1,34 @@
 @use "../../styles/variables.scss" as *;
 
 .search {
-  min-width: fit-content;
-  max-width: 14rem;
+  min-width: 2rem;
+  max-width: 2rem;
+  display: inline-flex;
   @media all and ($mobile) {
-    flex-grow: 0.3;
+    flex-grow: 0;
   }
 
   & > .search-button {
     background-color: var(--lightgray);
     border: none;
     border-radius: 4px;
-    font-family: inherit;
+    font-family: var(--headerFont);
     font-size: inherit;
     height: 2rem;
+    width: 2rem;
     padding: 0;
     display: flex;
     align-items: center;
+    justify-content: center;
     text-align: inherit;
     cursor: pointer;
     white-space: nowrap;
-    width: 100%;
-    justify-content: space-between;
-
-    & > p {
-      display: inline;
-      padding: 0 1rem;
-    }
 
     & svg {
       cursor: pointer;
       width: 18px;
       min-width: 18px;
-      margin: 0 0.5rem;
+      margin: 0;
 
       .search-path {
         stroke: var(--darkgray);
@@ -173,6 +169,7 @@
 
         & > .results-container {
           overflow-y: auto;
+          font-family: var(--headerFont);
 
           & .result-card {
             overflow: hidden;
@@ -185,7 +182,7 @@
             box-sizing: border-box;
 
             // normalize card props
-            font-family: inherit;
+            font-family: var(--headerFont);
             font-size: 100%;
             line-height: 1.15;
             margin: 0;
@@ -193,6 +190,16 @@
             text-align: left;
             outline: none;
             font-weight: inherit;
+            
+            /* Make links use code font */
+            & a {
+              font-family: var(--codeFont);
+            }
+            
+            /* Style heading to still use header font */
+            & > h3 {
+              font-family: var(--headerFont);
+            }
 
             &:hover,
             &:focus,

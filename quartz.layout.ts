@@ -29,10 +29,14 @@ export const defaultContentPageLayout: PageLayout = {
       components: [
         {
           Component: Component.Search(),
-          grow: true,
+          grow: false,
         },
-        { Component: Component.Darkmode() },
+        { 
+          Component: Component.Darkmode(),
+          align: "center"
+        },
       ],
+      gap: "4px"
     }),
     Component.Explorer(),
   ],
@@ -53,10 +57,14 @@ export const defaultListPageLayout: PageLayout = {
       components: [
         {
           Component: Component.Search(),
-          grow: true,
+          grow: false,
         },
-        { Component: Component.Darkmode() },
+        { 
+          Component: Component.Darkmode(),
+          align: "center"
+        },
       ],
+      gap: "4px"
     }),
     Component.Explorer(),
   ],

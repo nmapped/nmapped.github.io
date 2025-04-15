@@ -1,2 +1,0 @@
-## Why Not?
-I think my current system requires too much work on my part to publish blog posts. I'm thinking of having the entire vault as is on the web, unfiltered. I mean, why not? I don't have anything to hide and isn't the point to show that I'm working? that I'm improving? to show what I'm learning? So, tell me, why not?

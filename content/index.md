@@ -27,8 +27,8 @@ Here are some ways to navigate this digital garden:
 
 ## Recently Updated
 
-- [[vectors|Vectors]] - Brief description
-- [[gradient-descent|Gradient Descent]] - Brief description
+- [[Vectors|Vectors]] - Brief description
+- [[Gradient Descent|Gradient Descent]] - Brief description
 - [[why-not|Why Not?]] - Brief description
 
 Feel free to explore and follow the connections between ideas. This garden is always growing and evolving, just like my thoughts.

@@ -195,6 +195,18 @@ a {
       z-index: 1;
       grid-area: grid-sidebar-left;
       flex-direction: column;
+      font-family: var(--headerFont);
+      
+      /* Make all elements in sidebar use header font by default */
+      & * {
+        font-family: var(--headerFont);
+      }
+      
+      /* Make links use code font */
+      & a {
+        font-family: var(--codeFont);
+      }
+      
       @media all and ($mobile) {
         gap: 0;
         align-items: center;
