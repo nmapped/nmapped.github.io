@@ -2,6 +2,6 @@
   "cssTheme": "Minimal",
   "accentColor": "",
   "interfaceFontFamily": "DejaVu Sans,Droid Sans",
-  "textFontFamily": "DejaVu Serif,Droid Sans",
+  "textFontFamily": "DejaVu Sans,DejaVu Serif,Droid Sans",
   "monospaceFontFamily": "Droid Sans Mono"
 }

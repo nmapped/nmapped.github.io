@@ -1,12 +1,12 @@
 ---
-title: nmapped-garden
+title: こんにちは
 enableToc: false
 cssclasses: []
 ---
 
-# Hello, I'm [redacted]
+# I'm [redacted]
 
-Welcome to my digital garden - a place where I collect and connect my thoughts, notes, and discoveries. This is a space for exploration and learning, built with [Quartz](https://quartz.jzhao.xyz/).
+Welcome to my digital garden - a place where I collect and connect my thoughts, notes, and discoveries. This is a space for exploration and learning, built with [Quartz](https://quartz.jzhao.xyz/). It's still a work in progress.
 
 ## What You'll Find Here
 
