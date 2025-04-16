@@ -43,6 +43,7 @@ body {
 
   div.center {
     padding: 0 1rem;
+    min-width: 0 !important;
   }
 }
 
@@ -50,6 +51,15 @@ body {
   .page > #quartz-body .sidebar.left:has(.explorer) {
     padding: 1rem;
   }
+}
+
+div.right.sidebar div.graph {
+  padding: 0 1rem;
+}
+
+footer {
+  padding-left: 1rem;
+  min-width: 0 !important;
 }
 
 // Apply grayscale filter to everything
