@@ -1,32 +1,5 @@
 import { QuartzConfig } from "./quartz/cfg"
 import * as Plugin from "./quartz/plugins"
-<<<<<<< HEAD
-// import { FilePath, joinSegments } from "./quartz/util/path"
-// import fs from "fs"
-// import { glob } from "./quartz/util/glob"
-// import { dirname } from "path"
-// import { Argv } from "./quartz/util/ctx"
-
-// Custom plugin for the root static folder
-// const CustomStatic = () => ({
-//   name: "CustomStatic",
-//   async *emit({ argv, cfg }: { argv: Argv; cfg: QuartzConfig }) {
-//     const staticPath = "static" // Root static folder
-//     const fps = await glob("**", staticPath, cfg.configuration.ignorePatterns)
-//     const outputStaticPath = joinSegments(argv.output, "static")
-//     await fs.promises.mkdir(outputStaticPath, { recursive: true })
-//     for (const fp of fps) {
-//       const src = joinSegments(staticPath, fp) as FilePath
-//       const dest = joinSegments(outputStaticPath, fp) as FilePath
-//       await fs.promises.mkdir(dirname(dest), { recursive: true })
-//       await fs.promises.copyFile(src, dest)
-//       yield dest
-//     }
-//   },
-//   async *partialEmit() {},
-// })
-=======
->>>>>>> parent of 36fb5b9 (use grayscale themed design)
 
 /**
  * Quartz 4 Configuration
