@@ -209,15 +209,18 @@
   },
   "active": "f9b6e01f218786af",
   "lastOpenFiles": [
+    "scratch/Why Not?.md",
     "notes/C Hexdump Program.md",
+    "notes/Vector Addition.md",
+    "notes/Vectors.md",
+    "index.md",
+    "scratch/why-not.md",
     "notes/Gradient Descent.md",
     "notes/Learning Goals.md",
     "notes/Linear Transformation.md",
     "notes/Partial Derivatives in Gradient Descent.md",
     "notes/Reinforcement Learning.md",
     "notes/Scalar Multiplication.md",
-    "notes/Vectors.md",
-    "notes/Vector Addition.md",
     "scratch/Intro to ML.md",
     "scratch/Leisure.md",
     "scratch/Linear Regression.md",
@@ -225,10 +228,8 @@
     "scratch/On The Issue of Prayer.md",
     "scratch/Untitled.md",
     "scratch/Vectorized Dot Product in C.md",
-    "scratch/why-not.md",
     "drawings/Understanding GEMM.md",
     "2025-04-15.md",
-    "drawings",
-    "index.md"
+    "drawings"
   ]
 }

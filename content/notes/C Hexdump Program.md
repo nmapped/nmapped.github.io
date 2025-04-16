@@ -61,6 +61,6 @@ int main(int argc, char** argv) {
 }
 ```
 ## Further  Reading
-- [[sign-extension]]
-- [[endianness]]
-- [[bitwise-operations]]
+- [[Sign Extension]]
+- [[Endianness]]
+- [[Bitwise Operations]]

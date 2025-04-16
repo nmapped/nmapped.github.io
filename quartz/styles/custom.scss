@@ -2,6 +2,7 @@
 
 // put your custom CSS here!
 body {
+  padding: 0;
   font-size: 14px;
   
   // Add mountains.jpg as background
@@ -35,6 +36,22 @@ body {
   }
 }
 
+@media not (min-width: 1200px) {
+  .page > #quartz-body {
+    padding: 0;
+  }
+
+  div.center {
+    padding: 0 1rem;
+  }
+}
+
+@media (max-width: 800px) {
+  .page > #quartz-body .sidebar.left:has(.explorer) {
+    padding: 1rem;
+  }
+}
+
 // Apply grayscale filter to everything
 html {
   filter: grayscale(100%);
@@ -46,9 +63,35 @@ a {
 }
 
 p.meta {
-  font-size: 13px;
+  font-size: 12px;
 }
 
 .hide-meta .content-meta {
   display: none;
+}
+
+// Make sidebar content use header font
+.sidebar {
+  font-family: var(--headerFont);
+
+  p, text, span, div {
+    font-family: var(--headerFont);
+    font-size: 1rem;
+  }
+}
+
+.folder-title {
+  font-size: 12px;
+}
+
+ul.explorer-ul.overflow {
+  padding: 1rem !important;
+}
+
+code {
+  padding: 0;
+}
+
+code, pre, .code, pre > code {
+  font-size: 12px;
 }
