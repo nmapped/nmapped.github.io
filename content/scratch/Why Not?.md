@@ -1,7 +1,0 @@
-I think my current system requires too much work on my part to publish blog posts. I'm thinking of having the entire vault as is on the web, unfiltered. I mean, why not? I don't have anything to hide and isn't the point to show that I'm working? that I'm improving? to show what I'm learning? So, tell me, why not? 
-
-It'll finally allow me to automate a part of this process. Once I type the notes on Obsidian, all I need to do is push before the notes and yeeted to the interwebs. I think that's reasonable. Besides, the other sections in the original website that I created to add things such as hobbies, previous projects, and resource recommendations ended up being abandoned. I could easily do that here with a cluster of notes, without deliberately trying even. The system takes care of itself; I can't believe I didn't think of this earlier. 
-
-The best system is one that naturally emerges, I'll just let the notes speak for themselves rather than try to force them to adhere to some predefined structure that limits their usefulness to me. I could always just add certain "central points" to the index pointing to notes that are heavily linked to other notes as a sort of starting point for a dive into my thoughts around a particular topic. I love that the graphs are usually isolated as well. It means that when I look at the graph for a particular notes, I only see notes that are relevant to the current one, genius.
-
-The best thing to do is to let the system grow by itself which is what I'll do.

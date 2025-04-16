@@ -1,5 +1,6 @@
 import { QuartzConfig } from "./quartz/cfg"
 import * as Plugin from "./quartz/plugins"
+<<<<<<< HEAD
 // import { FilePath, joinSegments } from "./quartz/util/path"
 // import fs from "fs"
 // import { glob } from "./quartz/util/glob"
@@ -24,6 +25,8 @@ import * as Plugin from "./quartz/plugins"
 //   },
 //   async *partialEmit() {},
 // })
+=======
+>>>>>>> parent of 36fb5b9 (use grayscale themed design)
 
 /**
  * Quartz 4 Configuration
