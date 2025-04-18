@@ -25,12 +25,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/C Hexdump Program.md",
+                "file": "scratch/Vectorized Dot Product in C.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "C Hexdump Program"
+              "title": "Vectorized Dot Product in C"
             }
           },
           {
@@ -62,7 +62,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -207,13 +207,14 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "c90b7d1e5fb9f173",
+  "active": "584fd24e6201a9b5",
   "lastOpenFiles": [
+    "notes/C Hexdump Program.md",
+    "scratch/Multiple Linear Regression.md",
     "scratch/Linear Regression.md",
     "index.md",
     "Why Not?.md",
     "scratch/Why Not?.md",
-    "notes/C Hexdump Program.md",
     "notes/Vector Addition.md",
     "notes/Vectors.md",
     "scratch/why-not.md",
@@ -225,7 +226,6 @@
     "notes/Scalar Multiplication.md",
     "scratch/Intro to ML.md",
     "scratch/Leisure.md",
-    "scratch/Multiple Linear Regression.md",
     "scratch/On The Issue of Prayer.md",
     "scratch/Untitled.md",
     "scratch/Vectorized Dot Product in C.md",

@@ -101,5 +101,11 @@ body {
   .code,
   pre>code {
     font-size: 12px;
+    filter: grayscale(100%) !important;
+  }
+
+  // Force grayscale on syntax highlighting spans
+  code span {
+    filter: grayscale(100%) !important;
   }
 }
