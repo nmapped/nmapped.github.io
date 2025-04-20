@@ -39,12 +39,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "scratch/Linear Regression.md",
+                "file": "scratch/Time Management.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Linear Regression"
+              "title": "Time Management"
             }
           },
           {
@@ -53,16 +53,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "scratch/Multiple Linear Regression.md",
+                "file": "scratch/NumPy.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Multiple Linear Regression"
+              "title": "NumPy"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -94,7 +94,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "why not?",
+                "query": "matrix multiplication",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -119,7 +119,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "2d5bea29a01e9f61",
@@ -207,11 +208,15 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "584fd24e6201a9b5",
+  "active": "a0497e87ee94abe8",
   "lastOpenFiles": [
-    "notes/C Hexdump Program.md",
-    "scratch/Multiple Linear Regression.md",
     "scratch/Linear Regression.md",
+    "scratch/Time Management.md",
+    "scratch/NumPy.md",
+    "scratch/Multiple Linear Regression.md",
+    "scratch/Vectorized Dot Product in C.md",
+    "drawings/Understanding GEMM.md",
+    "notes/C Hexdump Program.md",
     "index.md",
     "Why Not?.md",
     "scratch/Why Not?.md",
@@ -228,8 +233,6 @@
     "scratch/Leisure.md",
     "scratch/On The Issue of Prayer.md",
     "scratch/Untitled.md",
-    "scratch/Vectorized Dot Product in C.md",
-    "drawings/Understanding GEMM.md",
     "2025-04-15.md",
     "drawings"
   ]
