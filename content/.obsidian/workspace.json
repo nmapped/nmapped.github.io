@@ -62,7 +62,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -208,10 +208,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "a0497e87ee94abe8",
+  "active": "c90b7d1e5fb9f173",
   "lastOpenFiles": [
-    "scratch/Linear Regression.md",
     "scratch/Time Management.md",
+    "scratch/Linear Regression.md",
     "scratch/NumPy.md",
     "scratch/Multiple Linear Regression.md",
     "scratch/Vectorized Dot Product in C.md",

@@ -16,7 +16,7 @@ NumPy's basic data structure is an indexable, n-dimensional array containing ele
 ## Data Creation
 + `numpy.zeros()`: creates an array using a shape argument (one number for a 1-D array or shape tuple) and fills the array with zeros.
 + `numpy.random.random_sample()`: uses same arguments as `numpy.zeros` to create arrays and fills the array with random values.
-+ `numpy.arange()`: creates a 1-D array and fills it with numbers ranging from a starting value (or zero) to a max value. does not take a shape tuple.
++ `numpy.arange()`: creates a 1-D array and fills it with integers from a starting value, if two arguments are provided (or zero if one argument) to a max value. the difference between each number can be provided with a third argument. does not take a shape tuple.
 + `numpy.random.rand()`: creates a 1-D array and fills it with random numbers within a specified range.
 + `numpy.array()`: takes a python list as an argument and turns it into a NumPy array.
 
@@ -40,6 +40,9 @@ b = np.array([-1, -2, 3, 4])
 c = a + b                        # c_i = a_i + b_i
 ```
 **Note**: For this to work correctly, the arrays must be of the same size.
+
+## Scalar-Array Operations
+Vectors can be 'scaled' by scalar operations. A scalar is just a number. The scalar multiplies all the elements of a vector.
 
 ## Broadcasting
 This is a mechanism that allows for element-wise operations on arrays of different shapes. When performing operations like addition between two vectors (or arrays), NumPy automatically expands the smaller array to match the larger array, enabling element-wise operations without the need for explicit replication of data. Broadcasting follows a set of rules for aligning the shapes of the arrays involved:
