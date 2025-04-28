@@ -3,5 +3,6 @@
   "accentColor": "",
   "interfaceFontFamily": "DejaVu Sans,Droid Sans",
   "textFontFamily": "DejaVu Sans,DejaVu Serif,Droid Sans",
-  "monospaceFontFamily": "Droid Sans Mono"
+  "monospaceFontFamily": "Droid Sans Mono",
+  "baseFontSize": 13
 }

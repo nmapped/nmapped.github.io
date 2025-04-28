@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "encourage.md",
+                "file": "rough.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "encourage"
+              "title": "rough"
             }
           }
         ]
@@ -98,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "encourage.md",
+            "file": "rough.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -156,8 +156,9 @@
   },
   "active": "cc255f0345da1c26",
   "lastOpenFiles": [
-    "scratch/Time Management.md",
     "encourage.md",
+    "rough.md",
+    "scratch/Time Management.md",
     "notes/Gradient Descent.md",
     "scratch/Untitled.md",
     "scratch/Vectorized Dot Product in C.md",
@@ -183,7 +184,6 @@
     "scratch/on-the-issue-of-prayer.md",
     "scratch/multiple-linear-regression.md",
     "scratch/ml-intro.md",
-    "scratch/linear-regression.md",
     "scratch"
   ]
 }
