@@ -6,3 +6,4 @@
 ## Anime
 - Boruto
 - Bleach
+- Initial D: Fifth Stage

@@ -13,12 +13,13 @@ Vectors in the context of NumPy are an ordered array of numbers. The elements of
 NumPy's basic data structure is an indexable, n-dimensional array containing elements of the same type (`dtype`). Dimension in the context of NumPy arrays refers to the number of indexes of an array. A one-dimensional array has one index.
 + 1-D array, shape (n,): n elements indexed \[0] through \[n-1].
 
-## Data Creation
+## Data Creation & Manipulation
 + `numpy.zeros()`: creates an array using a shape argument (one number for a 1-D array or shape tuple) and fills the array with zeros.
 + `numpy.random.random_sample()`: uses same arguments as `numpy.zeros` to create arrays and fills the array with random values.
 + `numpy.arange()`: creates a 1-D array and fills it with integers from a starting value, if two arguments are provided (or zero if one argument) to a max value. the difference between each number can be provided with a third argument. does not take a shape tuple.
 + `numpy.random.rand()`: creates a 1-D array and fills it with random numbers within a specified range.
 + `numpy.array()`: takes a python list as an argument and turns it into a NumPy array.
++ `numpy_array.reshape()`: takes a shape tuple as an argument and changes the shape of an already existing array.
 
 ## Operations
 + NumPy arrays can be indexed sliced like regular python lists.
@@ -33,7 +34,7 @@ b = a**2                    # squares all elements of a
 ```
 **Note**: these operations also work on multi-dimensional arrays.
 
-## Array - Array Elements-wise Operations
+## Array-Array Elements-wise Operations
 ```python
 a = np.array([1, 2, 3, 4])
 b = np.array([-1, -2, 3, 4])
