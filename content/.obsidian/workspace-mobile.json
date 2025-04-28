@@ -11,14 +11,10 @@
             "id": "cc255f0345da1c26",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "rough.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "rough"
+              "title": "New tab"
             }
           }
         ]
@@ -156,8 +152,10 @@
   },
   "active": "cc255f0345da1c26",
   "lastOpenFiles": [
-    "encourage.md",
+    "Pasted image 20250422090736.png",
     "rough.md",
+    "scratch/Project Ideas.md",
+    "encourage.md",
     "scratch/Time Management.md",
     "notes/Gradient Descent.md",
     "scratch/Untitled.md",
@@ -182,8 +180,6 @@
     "scratch/why-not.md",
     "scratch/vectorized-dot.md",
     "scratch/on-the-issue-of-prayer.md",
-    "scratch/multiple-linear-regression.md",
-    "scratch/ml-intro.md",
     "scratch"
   ]
 }
