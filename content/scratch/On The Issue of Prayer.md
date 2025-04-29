@@ -1,0 +1,2 @@
+- If we pray for God's will to be done, even though it will come to pass no matter what, then what is the true purpose of prayer? What is it's true nature? What really is it?
+- 
