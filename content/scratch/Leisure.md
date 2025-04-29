@@ -1,4 +1,4 @@
-jjjk# Movies
+# Movies
 - Megamind
 - Rise of the Guardians
 - Maya and the Three
