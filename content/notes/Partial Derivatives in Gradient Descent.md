@@ -37,4 +37,4 @@ All parameters are updated simultaneously to ensure a consistent descent directi
 ## Further  Reading
 - [[Gradient Descent]]
 - [[Vectors]]
-- [[neural-networks]]
+- [[Neural Networks]]
